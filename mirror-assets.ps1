@@ -11,7 +11,9 @@ $queue.Enqueue('/about-us/')
 $queue.Enqueue('/brands/')
 $queue.Enqueue('/products/')
 $queue.Enqueue('/contact-us/')
-for($p=2;$p -le 13;$p++){ $queue.Enqueue("/products/page/$p/") }
+for ($p = 2; $p -le 13; $p++) {
+    $queue.Enqueue("/products/page/$p/")
+}
 
 function Save-Image($url) {
   try {
@@ -36,7 +38,7 @@ function Save-Image($url) {
 $pages = @()
 while($queue.Count -gt 0) {
   $path = $queue.Dequeue()
-  if($seenPages.ContainsKey($path)){continue}
+  if ($seenPages.ContainsKey($path)) { continue }
   $seenPages[$path]=$true
   try {
     $url = if($path -match '^https?://'){ $path } else { $base + $path }
