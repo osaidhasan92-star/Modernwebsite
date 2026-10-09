@@ -105,9 +105,9 @@ button,input,textarea,select {
 .navlinks {
     display:flex;
     align-items:center;
-    gap:30px;
+    gap:46px;
     flex:1;
-    font-size:13px;
+    font-size:18px;
     font-weight:700
 }
 .navlinks>a,.navdrop>a {
