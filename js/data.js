@@ -27,7 +27,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-135-300x300.png",
+    "image": "images/products/dairy/Group-135-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -39,7 +39,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-122-300x300.png",
+    "image": "images/products/vegetables/Group-122-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -51,7 +51,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/baked-beans-in-tomato-sauce-300x300.png",
+    "image": "images/products/Dry%20Products/baked-beans-in-tomato-sauce-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -63,7 +63,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-45-300x300.png",
+    "image": "images/products/smoked/Group-45-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -75,7 +75,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/beef-burger-patty-300x300.jpg",
+    "image": "images/products/smoked/beef-burger-patty-300x300.jpg",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -87,7 +87,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-100-300x300.png",
+    "image": "images/products/Frozen%20Meat/indian/Group-100.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -99,7 +99,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/beef-cube-roll-300x300.png",
+    "image": "images/products/Frozen%20Meat/Brazilian/beef-cube-roll-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -111,7 +111,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/NoPath-Copy-60-300x300.png",
+    "image": "images/products/smoked/NoPath-Copy-60-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -123,7 +123,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/NoPath-Copy-63-1-300x300.png",
+    "image": "images/products/smoked/NoPath-Copy-63-1-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -135,7 +135,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/NoPath-Copy-237-300x300.png",
+    "image": "images/products/smoked/NoPath-Copy-237-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -147,7 +147,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/NoPath-Copy-67-300x300.png",
+    "image": "images/products/smoked/NoPath-Copy-67-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -159,7 +159,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-47-300x300.png",
+    "image": "images/products/smoked/Group-47-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -171,7 +171,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-46-300x300.png",
+    "image": "images/products/smoked/Group-46-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -183,7 +183,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/beef-short-ribs-300x300.png",
+    "image": "images/products/Frozen%20Meat/Brazilian/beef-short-ribs-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -195,7 +195,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/beef-striploin-300x300.png",
+    "image": "images/products/Frozen%20Meat/Brazilian/beef-striploin-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -207,7 +207,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-29-300x300.png",
+    "image": "images/products/Frozen%20Meat/Brazilian/Group-29-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -219,7 +219,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/beef-tenderloin-india-1-300x300.png",
+    "image": "images/products/Frozen%20Meat/indian/beef-tenderloin-india-1-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -231,7 +231,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/beef-tenderloin-brazil-300x300.jpg",
+    "image": "images/products/Frozen%20Meat/Brazilian/beef-tenderloin-brazil-300x300.jpg",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -243,7 +243,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/beef-topside-300x300.png",
+    "image": "images/products/Frozen%20Meat/indian/beef-topside-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -255,7 +255,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/beef-topside-brazil-300x300.png",
+    "image": "images/products/Frozen%20Meat/Brazilian/beef-topside-brazil-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -267,7 +267,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/beef-tripe-300x300.png",
+    "image": "images/products/Frozen%20Meat/Brazilian/beef-tripe-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -279,7 +279,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-114-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -291,7 +291,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-113-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -303,7 +303,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-106-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -315,7 +315,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-105-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -327,7 +327,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/BOBBY-VEAL-INDIA-1-300x300.png",
+    "image": "images/products/Frozen%20Meat/indian/BOBBY-VEAL-INDIA-1-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -339,19 +339,19 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/NoPath-Copy-48-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
     "id": 28,
     "name": "Breaded Fish Fillet",
-    "slug": "seafood",
+    "slug": "processed-meat",
     "subcat": "",
-    "category": "Fish and Seafood",
+    "category": "Smoked and Processed Meat",
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/smoked/Group-59-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -363,67 +363,67 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/vegetables/Group-123-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
     "id": 30,
     "name": "Bulk Butter Replacer",
-    "slug": "cheeses",
+    "slug": "dairy",
     "subcat": "",
-    "category": "Other Cheeses",
+    "category": "Dairy Products",
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Group-138-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
     "id": 31,
     "name": "Bulk Butter Unsalted",
-    "slug": "cheeses",
+    "slug": "dairy",
     "subcat": "",
-    "category": "Other Cheeses",
+    "category": "Dairy Products",
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Group-105-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
     "id": 32,
     "name": "Butter Portion Mini Dish Unsalted",
-    "slug": "cheeses",
+    "slug": "dairy",
     "subcat": "",
-    "category": "Other Cheeses",
+    "category": "Dairy Products",
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Group-107-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
     "id": 33,
     "name": "Butter Portions Mini Dish",
-    "slug": "cheeses",
+    "slug": "dairy",
     "subcat": "",
-    "category": "Other Cheeses",
+    "category": "Dairy Products",
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Group-107-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
     "id": 34,
     "name": "Butter Unsalted Parchment",
-    "slug": "cheeses",
+    "slug": "dairy",
     "subcat": "",
-    "category": "Other Cheeses",
+    "category": "Dairy Products",
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Group-140-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -435,7 +435,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/vegetables/Group-124-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -447,7 +447,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Mozzarella-cheese-block-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -459,7 +459,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Mozzarella-cheese-block-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -471,7 +471,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/NoPath-Copy-158-300x300.png",
+    "image": "images/products/apetizers%20product/NoPath-Copy-158-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -483,7 +483,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Mozzarella-cheese-block-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -495,7 +495,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-84-300x300.png",
+    "image": "images/products/apetizers%20product/Group-84-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -507,43 +507,32 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-85-300x300.png",
+    "image": "images/products/apetizers%20product/Group-85-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
-  {
-    "id": 42,
-    "name": "Chick Peas Mara",
-    "slug": "vegetables",
-    "subcat": "",
-    "category": "Frozen Vegetable",
-    "brand": "Various",
-    "packing": "",
-    "origin": "",
-    "image": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&w=900",
-    "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
-  },
+  
   {
     "id": 43,
     "name": "Chicken / Beef Burger",
-    "slug": "poultry",
+    "slug": "processed-meat",
     "subcat": "",
-    "category": "Poultry Products",
+    "category": "Smoked and Processed Meat",
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/smoked/Group-57-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
     "id": 44,
     "name": "Chicken Breakfast Sausages",
-    "slug": "poultry",
+   "slug": "processed-meat",
     "subcat": "",
-    "category": "Poultry Products",
+    "category": "Smoked and Processed Meat",
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/smoked/Group-44-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -555,7 +544,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/Group-38-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -567,19 +556,19 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/smoked/Group-38-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
     "id": 47,
     "name": "Chicken Burger",
-    "slug": "poultry",
+    "slug": "processed-meat",
     "subcat": "",
-    "category": "Poultry Products",
+    "category": "Smoked and Processed Meat",
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/smoked/chicken-burger-patties-300x300.jpg",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -591,7 +580,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/Nopath-Copy-37-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -603,21 +592,10 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/Nopath-Copy-39-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
-  {
-    "id": 50,
-    "name": "Chicken Hot Dog Sausages",
-    "slug": "poultry",
-    "subcat": "",
-    "category": "Poultry Products",
-    "brand": "Various",
-    "packing": "",
-    "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
-    "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
-  },
+  
   {
     "id": 51,
     "name": "Chicken Leg",
@@ -627,7 +605,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/Nopath-Copy-32-300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -639,7 +617,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/Nopath-Copy-34-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -651,57 +629,10 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/Nopath-Copy-36-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
-  {
-    "id": 54,
-    "name": "Chicken Mince",
-    "slug": "poultry",
-    "subcat": "",
-    "category": "Poultry Products",
-    "brand": "Various",
-    "packing": "",
-    "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
-    "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
-  },
-  {
-    "id": 55,
-    "name": "Chicken Mortadella Plain Roll",
-    "slug": "poultry",
-    "subcat": "",
-    "category": "Poultry Products",
-    "brand": "Various",
-    "packing": "",
-    "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
-    "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
-  },
-  {
-    "id": 56,
-    "name": "Chicken Mortadella Plain Sliced",
-    "slug": "poultry",
-    "subcat": "",
-    "category": "Poultry Products",
-    "brand": "Various",
-    "packing": "",
-    "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
-    "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
-  },
-  {
-    "id": 57,
-    "name": "Chicken Nuggets",
-    "slug": "poultry",
-    "subcat": "",
-    "category": "Poultry Products",
-    "brand": "Various",
-    "packing": "",
-    "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
-    "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
-  },
+  
   {
     "id": 58,
     "name": "Chicken Samosa",
@@ -711,7 +642,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/NoPath-Copy-153-300x300.png",
+    "image": "images/products/apetizers%20product/NoPath-Copy-153-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -723,7 +654,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/NoPath-Copy-35-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -735,7 +666,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/shawerma.jpg",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -747,7 +678,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-86-300x300.png",
+    "image": "images/products/apetizers%20product/Group-86-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -759,7 +690,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/chicken-thigh-300x300.jpg",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -771,7 +702,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/NoPath-Copy-33-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -783,7 +714,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-64-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -795,7 +726,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Coconut-milk-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -807,7 +738,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-65-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -819,7 +750,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Mozzarella-cheese-block-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -831,7 +762,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/Group-40-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -843,7 +774,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Frenchfries/Group-116.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -855,7 +786,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/vegetables/Group-126-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -867,7 +798,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Mozzarella-cheese-block-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -879,7 +810,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Mozzarella-cheese-block-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -891,7 +822,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/NoPath-Copy-3-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -903,7 +834,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Poultry/NoPath-Copy-3-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -915,7 +846,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-135-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -927,7 +858,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-16-1-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -939,7 +870,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Mozzarella-cheese-block-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -951,7 +882,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Evaporated-Milk-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -963,7 +894,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Group-136-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -975,7 +906,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/fettucini-pasta-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -987,7 +918,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-74-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -999,7 +930,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-82-300x300.png",
+    "image": "images/products/apetizers%20product/Group-82-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1011,7 +942,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Mozzarella-cheese-block-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1023,7 +954,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Mozzarella-cheese-block-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1035,7 +966,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-115-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1047,7 +978,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/vegetables/Group-129-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1059,7 +990,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/fruits/Group-130-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1071,7 +1002,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/Group-39-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1083,7 +1014,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Frenchfries/Group-117-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1095,7 +1026,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-66-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1107,7 +1038,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/NoPath-Copy-52-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1119,7 +1050,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/lamb-carcass-india-300x300.png",
+    "image": "images/products/Frozen%20Meat/indian/lamb-carcass-india-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1131,7 +1062,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-239-300x300.png",
+    "image": "images/products/Frozen%20Meat/Australian/Group-239-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1143,7 +1074,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/lamb-leg-boneless-1-300x300.png",
+    "image": "images/products/Frozen%20Meat/Australian/lamb-leg-boneless-1-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1155,7 +1086,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/lamb-rack-aus.png",
+    "image": "images/products/Frozen%20Meat/Australian/lamb-rack-aus.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1167,7 +1098,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/lasagne-pasta-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1179,7 +1110,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/vegetables/Group-125-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1191,7 +1122,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-63-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1203,7 +1134,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/fruits/Group-250.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1215,7 +1146,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Mozzarella-cheese-block-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1227,7 +1158,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-123-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1239,7 +1170,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-123-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1251,7 +1182,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/NoPath-Copy-157-300x300.png",
+    "image": "images/products/apetizers%20product/NoPath-Copy-157-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1263,7 +1194,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-95-300x300.png",
+    "image": "images/products/apetizers%20product/Group-95-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1275,7 +1206,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/vegetables/Group-121-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1287,7 +1218,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/vegetables/Group-127-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1299,7 +1230,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Group-131-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1311,7 +1242,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Group-141-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1323,7 +1254,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Group-142-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1335,7 +1266,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-124-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1347,7 +1278,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/mutton-way-cut.jpg",
+    "image": "images/products/Frozen%20Meat/Australian/mutton-way-cut.jpg",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1359,7 +1290,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-97-300x300.png",
+    "image": "images/products/Frozen%20Meat/indian/Group-97-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1371,7 +1302,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-34-300x300.png",
+    "image": "images/products/Frozen%20Meat/Australian/Group-34-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1383,7 +1314,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/mutton-leg-bonelss.png",
+    "image": "images/products/Frozen%20Meat/Australian/mutton-leg-bonelss.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1395,7 +1326,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/mutton-rack-300x300.png",
+    "image": "images/products/Frozen%20Meat/Australian/mutton-rack-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1407,7 +1338,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/NoPath-Copy-151-300x300.png",
+    "image": "images/products/apetizers%20product/NoPath-Copy-151-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1419,7 +1350,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/NoPath-Copy-23-300x300.png",
+    "image": "images/products/Frozen%20Meat/Australian/NoPath-Copy-23-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1431,7 +1362,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-60-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1443,7 +1374,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/vegetables/Group-120-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1455,7 +1386,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-108-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1467,7 +1398,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Mozzarella-cheese-block-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1479,7 +1410,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/other%20cheese/Group-108-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1491,7 +1422,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-16-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1503,7 +1434,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-105-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1515,7 +1446,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Red-kidney-beans-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1527,7 +1458,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/Group-42-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1539,7 +1470,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/NoPath-Copy-46-1-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1551,7 +1482,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-103-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1563,7 +1494,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-104-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1575,7 +1506,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/NoPath-Copy-53-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1587,7 +1518,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Frenchfries/Group-118-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1599,7 +1530,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Frenchfries/frozen-french-fries_38432-94-2-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1611,7 +1542,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/shrimps-head-on-300x300.jpg",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1623,7 +1554,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/Nopath-Copy-51-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1635,7 +1566,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/NoPath-Copy-49-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1647,7 +1578,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Group-139-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1659,7 +1590,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/frozen%Mear/Brazilian/beef-tripe-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1671,7 +1602,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/smoked/BOBBY-VEAL-INDIA-1-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1683,7 +1614,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/spagetti-pasta-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1695,7 +1626,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-91-300x300.png",
+    "image": "images/products/apetizers%20product/Group-91-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1707,7 +1638,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/Nopath-Copy-47-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1719,7 +1650,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/Group-42-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1731,7 +1662,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/fruits/Frozen-Strawberry.jpg",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1743,7 +1674,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-67-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1755,7 +1686,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-69-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1767,7 +1698,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-75-300x300.jpg",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1779,7 +1710,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-67-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1791,7 +1722,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/tagliatelle-Pasta-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1803,7 +1734,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-61-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1815,7 +1746,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-89-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1827,7 +1758,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/SeaFood/NoPath-Copy-43-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1839,7 +1770,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/Group-73-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1851,7 +1782,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-119-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1863,7 +1794,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/tomato-peeled-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1875,21 +1806,10 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-83-300x300.png",
+    "image": "images/products/apetizers%20product/Group-83-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
-  {
-    "id": 156,
-    "name": "Turkey Ham Roll",
-    "slug": "poultry",
-    "subcat": "",
-    "category": "Poultry Products",
-    "brand": "Various",
-    "packing": "",
-    "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
-    "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
-  },
+  
   {
     "id": 157,
     "name": "UHT Cooking Cream Culinario",
@@ -1899,7 +1819,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/594590/pexels-photo-594590.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/UHT/Group-115-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1911,7 +1831,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/594590/pexels-photo-594590.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/UHT/NoPath-Copy-204-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1923,7 +1843,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-98-1-300x300.png",
+    "image": "images/products/Frozen%20Meat/indian/Group-98-1-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1935,7 +1855,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/veal-leg-300x300.png",
+    "image": "images/products/Frozen%20Meat/indian/veal-leg-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1947,33 +1867,11 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/veal-tenderloin-300x300.png",
+    "image": "images/products/Frozen%20Meat/indian/veal-tenderloin-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
-  {
-    "id": 162,
-    "name": "Vegetable Burger",
-    "slug": "vegetables",
-    "subcat": "",
-    "category": "Frozen Vegetable",
-    "brand": "Various",
-    "packing": "",
-    "origin": "",
-    "image": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&w=900",
-    "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
-  },
-  {
-    "id": 163,
-    "name": "Vegetable Oil – Hayat",
-    "slug": "vegetables",
-    "subcat": "",
-    "category": "Frozen Vegetable",
-    "brand": "Various",
-    "packing": "",
-    "origin": "",
-    "image": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&w=900",
-    "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
-  },
+  
+  
   {
     "id": 164,
     "name": "Vegetable Samosa",
@@ -1983,7 +1881,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-90-300x300.png",
+    "image": "images/products/apetizers%20product/Group-90-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -1995,7 +1893,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://mktgt.com/wp-content/uploads/2023/02/Group-89-300x300.png",
+    "image": "images/products/apetizers%20product/Group-89-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -2007,7 +1905,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/vermicelli-pasta-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -2019,7 +1917,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Frenchfries/NoPath-Copy-209-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -2031,7 +1929,7 @@ const products=[
     "brand": "Various",
     "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/Dry%20Products/NoPath-Copy-107-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
   {
@@ -2042,10 +1940,11 @@ const products=[
     "category": "Poultry Products",
     "brand": "Various",
     "packing": "",
-    "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "origin": "Brazil",
+    "image": "images/products/Poultry/NoPath-Copy-28-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   },
+ 
   {
     "id": 170,
     "name": "Whole Chicken",
@@ -2054,8 +1953,32 @@ const products=[
     "category": "Poultry Products",
     "brand": "Various",
     "packing": "",
+    "origin": "France",
+    "image": "images/products/Poultry/chicken-thigh-300x300.jpg",
+    "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
+  },
+   {
+    "id": 171,
+    "name": "Akwai Cheese",
+    "slug": "dairy",
+    "subcat": "",
+    "category": "Dairy Products",
+    "brand": "Various",
+    "packing": "",
     "origin": "",
-    "image": "https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "image": "images/products/dairy/Group-135-300x300.png",
+    "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
+  },
+  {
+    "id": 172,
+    "name": "Chick Peas Mara",
+    "slug": "dry-products",
+    "subcat": "",
+    "category": "Dry Products",
+    "brand": "Various",
+    "packing": "",
+    "origin": "",
+    "image": "images/products/Dry%20Products/Chick-Peas-300x300.png",
     "desc": "Premium quality product sourced from trusted suppliers for professional kitchens, hospitality and food-service operations."
   }
 ];
