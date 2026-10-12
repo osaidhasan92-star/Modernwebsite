@@ -42,7 +42,7 @@
         } ).on( 'mouseleave' ,restart) ;
         restart() ;
         const categoryImages= {
-            appetizers: 'images/products/smoked/NoPath-Copy-60-300x300.png' , 'frozen-meat' : 'https://images.pexels.com/photos/112781/pexels-photo-112781.jpeg?auto=compress&cs=tinysrgb&w=900' ,
+            appetizers: 'images/products/apetizers%20product/NoPath-Copy-153-300x300.png' , 'frozen-meat' : 'images/products/Frozen%20Meat/indian/Group-100.png' ,
   poultry: 'https://images.pexels.com/photos/6107734/pexels-photo-6107734.jpeg?auto=compress&cs=tinysrgb&w=900' ,
   seafood: 'https://images.pexels.com/photos/20810997/pexels-photo-20810997.jpeg?auto=compress&cs=tinysrgb&w=900' , 'processed-meat' : 'https://images.pexels.com/photos/112781/pexels-photo-112781.jpeg?auto=compress&cs=tinysrgb&w=900' ,
   fries: 'https://images.pexels.com/photos/8880735/pexels-photo-8880735.jpeg?auto=compress&cs=tinysrgb&w=900' ,
